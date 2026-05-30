@@ -1,4 +1,4 @@
-CryptoChat using Java Sockets & JavaFX Documentation
+CryptoChat using Java Sockets and JavaFX 
 
 For this project, I created a simple encrypted chat application using Java Sockets and JavaFX. I wanted to build something that went beyond basic I/O and showed real networking concepts like client-server communication, multithreading, and data encryption.
 
