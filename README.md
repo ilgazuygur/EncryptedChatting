@@ -9,3 +9,6 @@ After that, I added AES encryption using Java's built-in Cipher library. Every m
 The hardest part was handling sending and receiving at the same time. I solved this by running each operation on its own thread, so the app never freezes while waiting for a message. I also had to coordinate the UI thread with the networking threads using blocking queues and latches.
 
 Overall, this project helped me understand how real chat applications work under the hood, and how encryption can be layered on top of a network connection. It was rewarding to see two separate programs communicate securely in real time.
+
+
+<img width="787" height="449" alt="Encryption" src="https://github.com/user-attachments/assets/69541ecc-f42f-4eca-a1d7-71912739bd80" />
