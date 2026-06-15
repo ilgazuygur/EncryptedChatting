@@ -260,5 +260,7 @@ This project demonstrates:
 * Local chat history storage
 * Contact-based message organization
 
+
+
 <img width="2800" height="3960" alt="cryptochat_poster" src="https://github.com/user-attachments/assets/9f683c07-ba58-45e8-a576-7ea73b067139" />
 
